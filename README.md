@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @XvesdanX
+- 👀 I’m interested in programming, tennis and chess
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on SAP or Google :)
+- 📫 How to reach me: vesdan2008@gmail.com
